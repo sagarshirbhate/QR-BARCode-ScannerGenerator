@@ -49,7 +49,7 @@ You can get types of barcode by using following code.
 Qr_Barcode_Genrator.sharedInstance.getTypesOfCode()
 ```
 
-## Bug, Suggestions
+<sub> Bug, Suggestions </sub>
 
 All you need is open an [issue](https://github.com/Tangdixi/DCQRCode/issues), I'll answer it ASAP !
 
