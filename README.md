@@ -10,7 +10,7 @@
 
 | Creating Bar Code |
 | ------------- |
-|![ScreenShot](https://s3.amazonaws.com/cocoacontrols_production/uploads/control_image/image/10586/UNADJUSTEDNONRAW_thumb_8e.jpg)|
+|![ScreenShot](https://raw.githubusercontent.com/sagarshirbhate/QR-BARCode-ScannerGenerator/master/screenshot.jpeg)|
 
 
 
