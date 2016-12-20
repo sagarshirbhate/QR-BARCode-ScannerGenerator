@@ -1,5 +1,6 @@
 ![Platform](http://img.shields.io/badge/platform-ios-blue.svg?style=flat)
-![Language](https://img.shields.io/badge/Language-Objective----C-yellowgreen.svg)
+![Language](https://img.shields.io/badge/Language-Swift%203.0-yellow.svg)
+![License](https://img.shields.io/badge/Lisence-Apache%202.0-brightgreen.svg)
 
 <sub>QR-BARCode-ScannerGenerator</sub>
 -
